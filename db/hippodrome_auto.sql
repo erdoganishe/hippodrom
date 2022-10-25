@@ -16,31 +16,25 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `race`
+-- Table structure for table `auto`
 --
 
-DROP TABLE IF EXISTS `race`;
+DROP TABLE IF EXISTS `auto`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `race` (
-  `race_id` int NOT NULL,
-  `parpicipant_number` int DEFAULT NULL,
-  `date_time` datetime DEFAULT NULL,
-  `duration_time` time DEFAULT NULL,
-  `channels` varchar(100) DEFAULT NULL,
-  `state` tinyint DEFAULT NULL,
-  `type` varchar(45) DEFAULT NULL,
-  PRIMARY KEY (`race_id`)
+CREATE TABLE `auto` (
+  `koef` double DEFAULT NULL,
+  `streak` double DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `race`
+-- Dumping data for table `auto`
 --
 
-LOCK TABLES `race` WRITE;
-/*!40000 ALTER TABLE `race` DISABLE KEYS */;
-/*!40000 ALTER TABLE `race` ENABLE KEYS */;
+LOCK TABLES `auto` WRITE;
+/*!40000 ALTER TABLE `auto` DISABLE KEYS */;
+/*!40000 ALTER TABLE `auto` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
