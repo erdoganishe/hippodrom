@@ -1,0 +1,17 @@
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\bin\Debug\net6.0-windows\hippodrom_vs.exe
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\bin\Debug\net6.0-windows\hippodrom_vs.deps.json
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\bin\Debug\net6.0-windows\hippodrom_vs.runtimeconfig.json
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\bin\Debug\net6.0-windows\hippodrom_vs.dll
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\bin\Debug\net6.0-windows\hippodrom_vs.pdb
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.csproj.AssemblyReference.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.Form1.resources
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.csproj.GenerateResource.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.AssemblyInfoInputs.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.AssemblyInfo.cs
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.csproj.CoreCompileInputs.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.dll
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\refint\hippodrom_vs.dll
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.pdb
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\hippodrom_vs.genruntimeconfig.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom_vs\obj\Debug\net6.0-windows\ref\hippodrom_vs.dll
