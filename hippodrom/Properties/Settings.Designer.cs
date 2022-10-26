@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace hyppodrom.Properties {
+namespace hippodrom.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -26,11 +26,10 @@ namespace hyppodrom.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"C:\\Users\\khoty\\Desktop\\учеба 3.0\\б" +
-            "д\\курсач\\проект\\hippodrom\\db\\lb1.accdb\"")]
-        public string lb1ConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-NBBP6UE1;Initial Catalog=Hyppodrom;Integrated Security=True")]
+        public string HyppodromConnectionString {
             get {
-                return ((string)(this["lb1ConnectionString"]));
+                return ((string)(this["HyppodromConnectionString"]));
             }
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\bin\Debug\hippodrom.exe.config
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\bin\Debug\hippodrom.exe
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\bin\Debug\hippodrom.pdb
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.csproj.AssemblyReference.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.Form1.resources
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.Properties.Resources.resources
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.csproj.GenerateResource.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.csproj.CoreCompileInputs.cache
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.exe
+C:\Users\khoty\Desktop\учеба 3.0\бд\курсач\проект\hippodrom\hippodrom\obj\Debug\hippodrom.pdb

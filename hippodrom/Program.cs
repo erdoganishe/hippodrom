@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace hyppodrom
+namespace hippodrom
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace hyppodrom
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main_form());
+            Application.Run(new Form1());
         }
     }
 }
