@@ -33,5 +33,10 @@ namespace hippodrom
             this.raceTableAdapter.Fill(this.hyppodromDataSet.Race);
 
         }
+
+        private void Exit_button_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
