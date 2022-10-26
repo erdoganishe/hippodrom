@@ -57,6 +57,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>HyppodromDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="HyppodromDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HyppodromDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HyppodromDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HyppodromDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -81,6 +91,28 @@
     </None>
     <None Include="HyppodromDataSet.xss">
       <DependentUpon>HyppodromDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HyppodromDataSet1.xsc">
+      <DependentUpon>HyppodromDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HyppodromDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HyppodromDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HyppodromDataSet1.xss">
+      <DependentUpon>HyppodromDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HyppodromDataSet2.xsc">
+      <DependentUpon>HyppodromDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HyppodromDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HyppodromDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HyppodromDataSet2.xss">
+      <DependentUpon>HyppodromDataSet2.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
